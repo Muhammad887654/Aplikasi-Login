@@ -1,3 +1,8 @@
+/** @module Login-Script */
+/** 
+* Membuat variabel loginFormElement untuk tampilan form.
+* @constant {HTMLElement}
+*/
 /*
  * Catatan:
  * Gunakan fungsi goToHome() untuk menampilkan halaman home
